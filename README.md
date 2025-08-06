@@ -12,7 +12,7 @@ This project demonstrates a real-world AWS DevOps infrastructure using AWS CDK, 
 
 ## Architecture
 
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](aws_devops_infrastructure_diagram.png)
 
 ## Project Structure
 
