@@ -17,7 +17,7 @@ This project demonstrates a real-world AWS DevOps infrastructure using AWS CDK, 
 ## Project Structure
 
 ```
-aws-devops-showcase/
+aws-devops-project/
 ├── cdk/
 │   ├── app.py
 │   ├── networking_stack.py
@@ -29,7 +29,7 @@ aws-devops-showcase/
 ├── .github/workflows/
 │   └── deploy.yml
 ├── diagrams/
-│   └── aws_devops_architecture_diagram.png
+│   └── aws_devops_infrastructure_diagram.png
 ├── .gitignore
 └── README.md
 ```
